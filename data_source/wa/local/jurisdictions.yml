@@ -540,6 +540,8 @@ jurisdictions:
   parent_ocdids:
   - ocd-jurisdiction/country:us/state:wa/county:kittitas/government
   - ocd-jurisdiction/country:us/state:wa/government
+  extras:
+    government_form: council_manager
 - id: ocd-jurisdiction/country:us/state:wa/place:centralia/government
   name: Centralia city
   url: https://cityofcentralia.com
