@@ -29,13 +29,13 @@
   - joy.hollingsworth@seattle.gov
   urls:
   - https://seattle.gov/council/members/joy-hollingsworth
-  image: https://seattle.gov/images//images/Council/Members/CouncilmemberBanners/hollingsworth_635x250.png
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/a7a100784ac2.png
+  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_hollingsworth_circle.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/ef06d9a9e07d.png
   source_urls:
   - https://seattle.gov/council
   - https://seattle.gov/council/members
   - https://seattle.gov/council/members/joy-hollingsworth
-  updated_at: '2026-10-01T01:33:32+00:00'
+  updated_at: '2026-10-01T01:58:44+00:00'
   roles:
   - name: Council President, District 3
     role_id: council-president
@@ -54,13 +54,13 @@
   - rob.saka@seattle.gov
   urls:
   - https://seattle.gov/council/members/rob-saka
-  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_saka_circle.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/8ac384d14474.png
+  image: https://seattle.gov/images//images/Council/Members/SquareHeadshots/saka_300.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/5ecf830d4ed7.png
   source_urls:
   - https://seattle.gov/council
   - https://seattle.gov/council/members
   - https://seattle.gov/council/members/rob-saka
-  updated_at: '2026-10-01T01:48:37+00:00'
+  updated_at: '2026-10-01T01:58:44+00:00'
   roles:
   - name: Council Member, District 1
     role_id: council-member
@@ -80,14 +80,14 @@
   urls:
   - https://seattle.gov/council/members/eddie-lin
   - https://seattle.gov/council/members/eddie-lin/about-eddie-lin
-  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council-lin_154x154.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/8518b717839c.png
+  image: https://seattle.gov/images//images/Council/Members/CouncilmemberBanners/lin_635x250.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/e0e659d8c068.png
   source_urls:
   - https://seattle.gov/council
   - https://seattle.gov/council/members
   - https://seattle.gov/council/members/eddie-lin
   - https://seattle.gov/council/members/eddie-lin/about-eddie-lin
-  updated_at: '2026-10-01T01:48:37+00:00'
+  updated_at: '2026-10-01T01:58:44+00:00'
   roles:
   - name: Council Member, District 2
     role_id: council-member
@@ -106,13 +106,13 @@
   - maritza.rivera@seattle.gov
   urls:
   - https://seattle.gov/council/members/maritza-rivera
-  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_rivera_circle.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/ed071cb84224.png
+  image: https://seattle.gov/images//images/Council/Members/SquareHeadshots/rivera_300.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/9ce197411b45.png
   source_urls:
   - https://seattle.gov/council
   - https://seattle.gov/council/members
   - https://seattle.gov/council/members/maritza-rivera
-  updated_at: '2026-10-01T01:48:37+00:00'
+  updated_at: '2026-10-01T01:58:44+00:00'
   roles:
   - name: Council Member, District 4
     role_id: council-member
@@ -131,13 +131,13 @@
   - debora.juarez@seattle.gov
   urls:
   - https://seattle.gov/council/members/debora-juarez
-  image: https://seattle.gov/images//images/Council/Members/CouncilmemberBanners/juarez_635x250.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/31ed0e44b6dc.png
+  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_juarez_154x154.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/183bf92d4c48.png
   source_urls:
   - https://seattle.gov/council
   - https://seattle.gov/council/members
   - https://seattle.gov/council/members/debora-juarez
-  updated_at: '2026-10-01T01:33:32+00:00'
+  updated_at: '2026-10-01T01:58:44+00:00'
   roles:
   - name: Council Member, District 5
     role_id: council-member
@@ -181,13 +181,13 @@
   - robert.kettle@seattle.gov
   urls:
   - https://seattle.gov/council/members/bob-kettle
-  image: https://seattle.gov/images//images/Council/Members/CouncilmemberBanners/kettle_635x250.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/f82b38e51362.png
+  image: https://seattle.gov/images//images/Council/Members/SquareHeadshots/kettle_300.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/91c6335d7e5b.png
   source_urls:
   - https://seattle.gov/council
   - https://seattle.gov/council/members
   - https://seattle.gov/council/members/bob-kettle
-  updated_at: '2026-10-01T01:48:37+00:00'
+  updated_at: '2026-10-01T01:58:44+00:00'
   roles:
   - name: Council Member, District 7
     role_id: council-member
@@ -206,13 +206,13 @@
   - council@seattle.gov
   urls:
   - https://seattle.gov/council/members/alexis-mercedes-rinck
-  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council_rinck_154x154.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/ce027a08f3f1.png
+  image: https://seattle.gov/images//images/Council/Members/SquareHeadshots/rinck_300.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/fb11d91d7b68.png
   source_urls:
   - https://seattle.gov/council
   - https://seattle.gov/council/members
   - https://seattle.gov/council/members/alexis-mercedes-rinck
-  updated_at: '2026-10-01T01:33:32+00:00'
+  updated_at: '2026-10-01T01:58:44+00:00'
   roles:
   - name: Council Member
     role_id: council-member
@@ -231,13 +231,13 @@
   - dionne.foster@seattle.gov
   urls:
   - https://seattle.gov/council/members/dionne-foster
-  image: https://seattle.gov/images//images/Council/Citywide%20Circle%20Headshots/council-foster_154x154.jpg
-  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/f207a4a7733a.png
+  image: https://seattle.gov/images//images/Council/Members/Foster/foster_300x300%20.jpg
+  cdn_image: https://civicpatch-nonprod.civicpatch.org/open-data/wa/local/place_seattle/images/9fde7944ee1c.png
   source_urls:
   - https://seattle.gov/council
   - https://seattle.gov/council/members
   - https://seattle.gov/council/members/dionne-foster
-  updated_at: '2026-10-01T01:48:37+00:00'
+  updated_at: '2026-10-01T01:58:44+00:00'
   roles:
   - name: Council Member
     role_id: council-member
